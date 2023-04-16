@@ -45,4 +45,4 @@ cat ./wallet_name_addr.txt | while read wallet_name wallet_addr wallet_privateke
         sudo systemctl restart nibid; sleep 5;
 
 done
-
+'
